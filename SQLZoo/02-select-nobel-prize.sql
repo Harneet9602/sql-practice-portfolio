@@ -1,0 +1,3 @@
+--Source: SQLZoo (hand-written)
+--Topic: SELECT basics
+--Table: nobel(yr, subject, winner)
